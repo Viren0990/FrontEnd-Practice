@@ -81,7 +81,7 @@ export const MidSection = () => {
                 <div className="absolute inset-0 bg-blue-50/80"></div>
             </div>
             
-            {/* Content */}
+           
             <div className="relative z-10 px-4 sm:px-6 lg:px-20 max-w-7xl mx-auto">
                 
                 <motion.div 
